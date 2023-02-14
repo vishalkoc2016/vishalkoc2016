@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 # 💫 About Me:
 🔭 I’m currently working on Mern-Stack Project.<br>👯 I’m looking to collaborate on  Open Source Projects.<br>🤝 I’m looking for help with Android development.<br>🌱 I’m currently learning DSA.<br>💬 Ask me about Web Development and Open Source.<br>⚡ Fun fact - I am lazy but smart
 
